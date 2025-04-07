@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me  
-Hello! I'm Koya Navya Keerthana, a passionate MERN stack developer from an ECE background who's now building cool full-stack web apps and Chrome extensions. I'm currently exploring ideas for smart productivity tools and AI-powered helpers.
+Hello! I'm Koya Navya Keerthana, a passionate MERN stack developer from an ECE background who's now building cool full-stack web apps and Chrome extensions. 
 
 I love learning by building and believe in trial, error & laughter along the way. 😄
 
@@ -19,8 +19,9 @@ Languages: JavaScript, Python
 Frontend: React, HTML, CSS, Bootstrap  
 Backend: Node.js, Express  
 Database: MongoDB  
-Other Tools: Git, VS Code, Postman, Chrome Extension APIs
 Core: systems and usable security, cryptography
+Other Tools: Git, VS Code, Postman, Chrome Extension APIs
+
 
 ---
 
