@@ -15,12 +15,12 @@ I love learning by building and believe in trial, error & laughter along the way
 
 ## 🛠️ My Skills
 
-Languages: JavaScript, Python  
-Frontend: React, HTML, CSS, Bootstrap  
-Backend: Node.js, Express  
-Database: MongoDB  
-Core: systems and usable security, cryptography
-Other Tools: Git, VS Code, Postman, Chrome Extension APIs
+**Languages:** JavaScript, Python  
+**Frontend:** React, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Core Concepts:** Systems and Usable Security, Cryptography  
+**Other Tools:** Git, VS Code, Postman, Chrome Extension APIs
 
 
 ---
